@@ -20,8 +20,7 @@ This is a simple Tic-Tac-Toe game coded in C#. The project was intentionally des
 *	Console-based interface: Played directly in the terminal.
 
 ## 👃 Code smells
-
-This code has several code smells that can be identified and improved. Here’s an analysis of the major code smells found:
+Code smells are indicators of potential problems in your code that may not be bugs but suggest weaknesses or bad practices. They serve as red flags that signal the need for refactoring, meaning that while the code may still function correctly, it could be structured better for maintainability, readability, and scalability. This code has several code smells that can be identified and improved. Here’s an analysis of the major code smells found:
 
 1. Magic Numbers
 
