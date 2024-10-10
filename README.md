@@ -1,10 +1,6 @@
 <h1 align="center">Code Smells - Tic-Tac-Toe example</h1>
 
 <p align="center">
-  <a href="#about">About</a> &#xa0; | &#xa0;
-  <a href="#features">Features</a> &#xa0; | &#xa0;
-  <a href="#technologies">Technologies</a> &#xa0; | &#xa0;
-  <a href="#getting-started">Getting Started</a> &#xa0; | &#xa0;
   <a href="https://github.com/DussanFreire" target="_blank">Author</a>
 </p>
 
