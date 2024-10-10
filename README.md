@@ -1,4 +1,4 @@
-<h1 align="center">Tic-Tac-Toe (with Code Smells)</h1>
+<h1 align="center">Code Smells - Tic-Tac-Toe example</h1>
 
 <p align="center">
   <a href="#about">About</a> &#xa0; | &#xa0;
